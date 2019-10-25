@@ -1,1 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+
+
+
+Added the second line in the alice.txt file in the change alice brnach
+
+Added the third line in the alice.txt file in the change_alice branch:
